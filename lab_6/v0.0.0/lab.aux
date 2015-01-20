@@ -1,0 +1,35 @@
+\relax 
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Why is UDP good?}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Why is UDP not enough?}{1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Why do we need TCP?}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}How does TCP work?}{2}}
+\newlabel{howdoestcpwork}{{1.4}{2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.1}Connection establishment}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces TCP's three-way hand-shake for connection establishment --- Source RFC793.}}{3}}
+\newlabel{fig:tcpsyn}{{1}{3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2}Data transmission}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces TCP's data communication.}}{4}}
+\newlabel{fig:tcppsh}{{2}{4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.3}Connection termination}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces TCP's three-way hand-shake for connection termination. Note that this is a simplification for the original 4-way hand-shake that is described in RF793. I.e. instead of having peer \texttt  {B} send two TCP packets (one packet \texttt  {ACK}ing peer A's \texttt  {FIN} and another indicating its own desire by terminate the connection by setting the \texttt  {FIN} flag), it combines them in a single packet (one packet that has both \texttt  {ACK} and \texttt  {FIN} flags set.}}{4}}
+\newlabel{fig:tcpfin}{{3}{4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.4}Header format}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces TCP's header format --- Source RFC793.}}{5}}
+\newlabel{fig:tcp}{{4}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Pseudo IP header format as used in TCP's checksum calculation, where \texttt  {PTCL} is protocol ID --- Source RFC793.}}{5}}
+\newlabel{fig:tcpsip}{{5}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Lab Preparation}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Physical lab topology.}}{6}}
+\newlabel{fig:labtop}{{6}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Lab experiments}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Connection establishment and data transmission}{7}}
+\newmarginnote{note.8.1}{{8}{29834877sp}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.1.1}Notes}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Connection termination (extra question; not graded)}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {A}Protocol header formats and IDs}{9}}
+\newlabel{a}{{A}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Ethernet Media Access Control (MAC) packet (note that an octet is 8 bits) --- Source: IEEE Std. 802.3-2012.}}{9}}
+\newlabel{fig:macpacket}{{7}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Internet Protocol (IP) version 4 header format --- Source RFC791.}}{9}}
+\newlabel{fig:ipv4}{{8}{9}}

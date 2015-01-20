@@ -1,0 +1,574 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2014.1.12)  12 MAR 2014 00:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lab.tex
+(./lab.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ar
+abic, farsi, ukenglish, usenglishmax, loaded.
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-site/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2012/03/29 v1.1i non floating margin notes for LaTeX
+\c@mn@abspage=\count88
+)
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen105
+\enit@toks=\toks15
+\enit@inbox=\box26
+\enitdp@description=\count89
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks16
+) (./lab.aux)
+\openout1 = `lab.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen114
+\scratchbox=\box27
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen115
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
+(marginnote)             Extended position detection mode activated.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: heightrounded 
+* h-part:(L,W,R)=(56.9055pt, 398.3386pt, 142.26378pt)
+* v-part:(T,H,B)=(101.40665pt, 700.96107pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=708.0pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.81102pt
+* \marginparsep=14.22636pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<figures/kulogo.png, id=1, 252.945pt x 74.2775pt>
+File: figures/kulogo.png Graphic file (type png)
+ <use figures/kulogo.png>
+Package pdftex.def Info: figures/kulogo.png used on input line 13.
+(pdftex.def)             Requested size: 142.26378pt x 41.77644pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
+
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/kulogo.png>] [1]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 132.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 132.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 132.
+
+<figures/cidr.pdf, id=17, 318.18875pt x 292.09125pt>
+File: figures/cidr.pdf Graphic file (type pdf)
+ <use figures/cidr.pdf>
+Package pdftex.def Info: figures/cidr.pdf used on input line 141.
+(pdftex.def)             Requested size: 358.50229pt x 329.09654pt.
+
+[2 <./figures/cidr.pdf>] [3]
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 |Version|  IHL  |Type of Service|          Total Length     
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 |         Identification        |Flags|      Fragment Offset
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 |  Time to Live |    Protocol   |         Header Checksum   
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 |                       Source Address                      
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 |                    Destination Address                    
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 |                    Options                    |    Padding
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 275--275
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+[4]
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |Version| Traffic Class |           Flow Label              
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |         Payload Length        |  Next Header  |   Hop Limi
+t   |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +                                                           
+    +[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +                         Source Address                    
+    +[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +                                                           
+    +[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +                                                           
+    +[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +                      Destination Address                  
+    +[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +                                                           
+    +[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 |                                                           
+    |[] 
+ []
+
+
+Overfull \hbox (3.0366pt too wide) in paragraph at lines 337--337
+[]\OT1/cmtt/m/n/12 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
++-+-+[] 
+ []
+
+[5]
+Overfull \hbox (30.13292pt too wide) in paragraph at lines 358--360
+[]\OT1/cmr/m/n/12 10.0.0.1 is rep-re-sented in bi-nary as: \OT1/cmtt/m/n/12 000
+01010.00000000.00000000.00000001\OT1/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (30.13292pt too wide) in paragraph at lines 360--362
+[]\OT1/cmr/m/n/12 10.0.0.2 is rep-re-sented in bi-nary as: \OT1/cmtt/m/n/12 000
+01010.00000000.00000000.00000010\OT1/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (32.744pt too wide) in paragraph at lines 362--364
+[]\OT1/cmr/m/n/12 10.0.254 is rep-re-sented in bi-nary as: \OT1/cmtt/m/n/12 000
+01010.00000000.00000000.11111110\OT1/cmr/m/n/12 . 
+ []
+
+[6]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 438.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 438.
+ [7] <figures/labtop.pdf, id=41, 192.72pt x 169.63374pt>
+File: figures/labtop.pdf Graphic file (type pdf)
+
+<use figures/labtop.pdf>
+Package pdftex.def Info: figures/labtop.pdf used on input line 458.
+(pdftex.def)             Requested size: 239.00558pt x 210.37471pt.
+Package marginnote Info: Margin note 9.1 is on absolute page 9
+(marginnote)              on input line 468.
+Package marginnote Info: right page because not two side mode on input line 468
+.
+Package marginnote Info: xpos seems to be 455.2441pt,
+(marginnote)             \marginnoterightadjust ignored on input line 468.
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
+[][]\OT1/cmtt/m/n/10 enable\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 configure termina
+l\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 interface Gi0/0\OT1/cmr/m/n/10 , \OT1/cmtt/
+m/n/10 no shutdown\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 ip address
+ []
+
+
+Overfull \hbox (24.99033pt too wide) in paragraph at lines 477--479
+[]\OT1/cmr/m/n/12 GigabitEthernet 0/0: IPv4 ad-dress 10.0.12.1, sub-net mask 25
+5.255.255.0. 
+ []
+
+
+Overfull \hbox (19.11539pt too wide) in paragraph at lines 479--481
+[]\OT1/cmr/m/n/12 GigabitEthernet 0/1: IPv4 ad-dress 10.0.1.1, sub-net mask 255
+.255.255.0. 
+ []
+
+[8 <./figures/labtop.pdf>]
+Overfull \hbox (24.99033pt too wide) in paragraph at lines 484--486
+[]\OT1/cmr/m/n/12 GigabitEthernet 0/0: IPv4 ad-dress 10.0.12.2, sub-net mask 25
+5.255.255.0. 
+ []
+
+
+Overfull \hbox (19.11539pt too wide) in paragraph at lines 486--488
+[]\OT1/cmr/m/n/12 GigabitEthernet 0/1: IPv4 ad-dress 10.0.2.1, sub-net mask 255
+.255.255.0. 
+ []
+
+[9] [10]
+Package marginnote Info: Margin note 12.1 is on absolute page 13
+(marginnote)              on input line 644.
+Package marginnote Info: right page because not two side mode on input line 644
+.
+Package marginnote Info: xpos seems to be 455.2441pt,
+(marginnote)             \marginnoterightadjust ignored on input line 644.
+ [11]
+Overfull \hbox (18.39362pt too wide) in paragraph at lines 681--685
+[]\OT1/cmr/m/n/12 When done, hit \OT1/cmtt/m/n/12 enter \OT1/cmr/m/n/12 if us-i
+ng \OT1/cmtt/m/n/12 scapy\OT1/cmr/m/n/12 , or com-pile it if us-ing \OT1/cmtt/m
+/n/12 macpacketsender.c
+ []
+
+
+Overfull \hbox (84.35397pt too wide) in paragraph at lines 681--685
+\OT1/cmr/m/n/12 us-ing \OT1/cmtt/m/n/12 gcc macpacketsender.c -o macpacketsende
+r\OT1/cmr/m/n/12 , then ex-e-cute it by \OT1/cmtt/m/n/12 ./macpacketsender\OT1/
+cmr/m/n/12 . 
+ []
+
+Package marginnote Info: Margin note 13.1 is on absolute page 13
+(marginnote)              on input line 696.
+Package marginnote Info: right page because not two side mode on input line 696
+.
+Package marginnote Info: xpos seems to be 56.9055pt,
+(marginnote)             \marginnoterightadjust ignored on input line 696.
+[12] [13] [14] (./lab.aux) ) 
+Here is how much of TeX's memory you used:
+ 2817 strings out of 495011
+ 39301 string characters out of 3181364
+ 122218 words of memory out of 3000000
+ 5986 multiletter control sequences out of 15000+200000
+ 9532 words of font info for 34 fonts, out of 3000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 38i,9n,35p,484b,368s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmtt12.pfb>
+Output written on lab.pdf (15 pages, 353771 bytes).
+PDF statistics:
+ 112 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
