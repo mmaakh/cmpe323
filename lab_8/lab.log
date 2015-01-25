@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2014.1.12)  23 APR 2014 06:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2014.11.13)  25 JAN 2015 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -343,7 +343,7 @@ Overfull \hbox (12.30817pt too wide) in paragraph at lines 375--379
 [6] [7] (./lab.aux) ) 
 Here is how much of TeX's memory you used:
  2814 strings out of 495011
- 39275 string characters out of 3181364
+ 39275 string characters out of 3181363
  110190 words of memory out of 3000000
  5983 multiletter control sequences out of 15000+200000
  9532 words of font info for 34 fonts, out of 3000000 for 9000
@@ -360,7 +360,7 @@ ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.
 pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on lab.pdf (8 pages, 235825 bytes).
+Output written on lab.pdf (8 pages, 235851 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
