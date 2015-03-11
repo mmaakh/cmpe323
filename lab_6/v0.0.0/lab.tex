@@ -44,6 +44,7 @@ marginparwidth=4cm, marginparsep=0.5cm]{geometry}
                 \item 9-4-2014: expanded section \ref{howdoestcpwork} with
                     added explanation --
                     mkhonji.
+                \item 12-3-2015: fixed a typo -- mkhonji.
             \end{itemize}
     \end{titlepage}
     \newpage
@@ -169,10 +170,9 @@ marginparwidth=4cm, marginparsep=0.5cm]{geometry}
             is due to a number of reasons, one of which is that TCP allows for
             extensions via variable length options, as well as the existence of
             tweakable parameters in TCP's operation (e.g. multiple timer
-            parameters and finding the right timers is a problem that is an
-            optimization problem. For example, RFC7298 was proposed as late as
-            2011 to present a newer method for calculating the re-transmission
-            timer).
+            parameters and finding the right timers is a an open optimization
+            problem. For example, RFC7298 was proposed as late as 2011 to
+            present a newer method for calculating the re-transmission timer).
 
             Simply put, the most visible principles of TCP that achieve that
             are:
@@ -231,8 +231,8 @@ marginparwidth=4cm, marginparsep=0.5cm]{geometry}
                 Notice how the transmitted data ``\texttt{Hello}'' is composed
                 of 5 octets with its first octet having the sequence 101, which
                 resulted in the peer B to acknowledge its  reception by sending
-                an acknowledgement of 106 = 101 + 5. In other words, the
-                acknowledgements are the sequence number of the first octet +
+                an acknowledgement of 101 + 5 = 106. In other words, the
+                acknowledgement is the sequence number of the first octet +
                 the total number of received octets since the first one.
 
                 \begin{figure}[tbh]
