@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2014.11.13)  26 MAR 2015 08:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2014.11.13)  26 MAR 2015 09:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -350,17 +350,17 @@ Package marginnote Info: xpos seems to be 455.2441pt,
  [7 <./figures/labtop.pdf>] (./html/index.html)
 (./html/blog.html) [8]
 Package marginnote Info: Margin note 10.1 is on absolute page 10
-(marginnote)              on input line 510.
-Package marginnote Info: right page because not two side mode on input line 510
+(marginnote)              on input line 514.
+Package marginnote Info: right page because not two side mode on input line 514
 .
 Package marginnote Info: xpos seems to be 455.2441pt,
-(marginnote)             \marginnoterightadjust ignored on input line 510.
+(marginnote)             \marginnoterightadjust ignored on input line 514.
 Package marginnote Info: Margin note 10.2 is on absolute page 10
-(marginnote)              on input line 525.
-Package marginnote Info: right page because not two side mode on input line 525
+(marginnote)              on input line 529.
+Package marginnote Info: right page because not two side mode on input line 529
 .
 Package marginnote Info: xpos seems to be 455.2441pt,
-(marginnote)             \marginnoterightadjust ignored on input line 525.
+(marginnote)             \marginnoterightadjust ignored on input line 529.
  [9] (./lab.aux) ) 
 Here is how much of TeX's memory you used:
  4595 strings out of 495011
@@ -381,7 +381,7 @@ fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on lab.pdf (10 pages, 210539 bytes).
+Output written on lab.pdf (10 pages, 210739 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
