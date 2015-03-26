@@ -1,0 +1,4 @@
+#include <unistd.h>
+
+/* fd can be any socket, sockfd or conn_sockfd */
+int close(int fd); 

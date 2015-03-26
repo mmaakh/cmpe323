@@ -1,0 +1,14 @@
+/* declare the addr struct */
+struct sockaddr_in addr;
+
+/* initialize addr's content to 0 */
+memset(&addr, 0, sizeof(addr));
+
+/* set address family to IPv4 */
+addr.sin_family = AF_INET;
+
+/* set source port number to 80 */
+addr.sin_port = htons(80);
+
+/* set source IP address to "X.X.X.X" */
+addr.sin_addr.s_addr = inet_addr("X.X.X.X");
