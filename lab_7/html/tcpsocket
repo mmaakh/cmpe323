@@ -2,4 +2,4 @@
 #include <netinet/in.h>
 #include <netinet/tcp.h>
 
-int sockfd = socket(AF_INET, SOCK_STREAM, 0)
+int sockfd = socket(AF_INET, SOCK_STREAM, 0);
