@@ -1,0 +1,109 @@
+\documentclass{article}
+\usepackage{listings}
+\usepackage{color}
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+
+\lstset{ %
+  backgroundcolor=\color{white},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}
+  basicstyle=\footnotesize,        % the size of the fonts that are used for the code
+  breakatwhitespace=false,         % sets if automatic breaks should only happen at whitespace
+  breaklines=true,                 % sets automatic line breaking
+  captionpos=b,                    % sets the caption-position to bottom
+  commentstyle=\color{mygreen},    % comment style
+  deletekeywords={...},            % if you want to delete keywords from the given language
+  escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+  extendedchars=true,              % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
+  frame=single,                    % adds a frame around the code
+  keepspaces=true,                 % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
+  keywordstyle=\color{blue},       % keyword style
+  morekeywords={*,...},            % if you want to add more keywords to the set
+  numbers=left,                    % where to put the line-numbers; possible values are (none, left, right)
+  numbersep=5pt,                   % how far the line-numbers are from the code
+  numberstyle=\tiny\color{mygray}, % the style that is used for the line-numbers
+  rulecolor=\color{black},         % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
+  showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
+  showstringspaces=false,          % underline spaces within strings only
+  showtabs=false,                  % show tabs within strings adding particular underscores
+  stepnumber=1,                    % the step between two line-numbers. If it's 1, each line will be numbered
+  stringstyle=\color{mymauve},     % string literal style
+  tabsize=2,                       % sets default tabsize to 2 spaces
+}
+\title{Post-lab Questions of Lab 7}
+\author{CMPE 324}
+\begin{document}
+    \maketitle
+    \section{Question 1}
+        Consider the scenario where you are about to implement a TCP server
+        (e.g. a HTTP server). From the perspective of socket programming, your
+        code should call the following functions (sorted randomly):
+        \begin{itemize}
+            \item \texttt{accept}.
+            \item \texttt{read} and \texttt{write}.
+            \item \texttt{socket}.
+            \item \texttt{close}.
+            \item \texttt{bind}.
+            \item \texttt{listen}.
+        \end{itemize}
+
+        Your task in this question is to sort the functions above in the
+        \emph{right order}, that allows the program to (ultimately) read/write
+        from/to connected peers.
+
+    \section{Question 2}
+        From the POSIX functions above, list those that block\footnote{Sockets
+        can be in blocking, or nonblocking modes. In nonblocking mode, none of
+        the functions above block. In blocking mode, some of them block. In lab
+        7, we worked on blocking sockets only, and this question is specific to
+        blocking sockets.}.
+
+    \newpage
+    \appendix
+    \section{Function synopsis}
+        This appenedix lists relevant function synopsis for your own reference.
+        The order by which the functions are listed here is also random (intentional).
+        \begin{figure}[tbh]
+            \centering
+            \lstinputlisting[language=C]{./html/tcpaccept}
+            \caption{The synopsis of the \texttt{accept} function.}
+            \label{fig:accept}
+        \end{figure}
+        \begin{figure}[tbh]
+            \centering
+            \lstinputlisting[language=C]{./html/tcpread}
+            \caption{The synopsis of the \texttt{read} function.}
+            \label{fig:read}
+        \end{figure}
+        \begin{figure}[tbh]
+            \centering
+            \lstinputlisting[language=C]{./html/tcpwrite}
+            \caption{The synopsis of the \texttt{write} function.}
+            \label{fig:write}
+        \end{figure}
+        \begin{figure}[tbh]
+            \centering
+            \lstinputlisting[language=C]{./html/tcpsocket}
+            \caption{The synopsis of the \texttt{socket} function.}
+            \label{fig:socket}
+        \end{figure}
+        \begin{figure}[tbh]
+            \centering
+            \lstinputlisting[language=C]{./html/tcpclose}
+            \caption{The synopsis of the \texttt{close} function.}
+            \label{fig:close}
+        \end{figure}
+        \begin{figure}[tbh]
+            \centering
+            \lstinputlisting[language=C]{./html/tcpbind}
+            \caption{The synopsis of the \texttt{bind} function.}
+            \label{fig:bind}
+        \end{figure}
+        \begin{figure}[tbh]
+            \centering
+            \lstinputlisting[language=C]{./html/tcplisten}
+            \caption{The synopsis of the \texttt{listen} function.}
+            \label{fig:listen}
+        \end{figure}
+
+\end{document}
