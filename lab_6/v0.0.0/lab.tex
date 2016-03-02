@@ -45,6 +45,7 @@ marginparwidth=4cm, marginparsep=0.5cm]{geometry}
                     added explanation --
                     mkhonji.
                 \item 12-3-2015: fixed a typo -- mkhonji.
+                \item 3-2-2016: typo fix in Fig \ref{fig:tcppsh} -- mkhnji.
             \end{itemize}
     \end{titlepage}
     \newpage
@@ -239,7 +240,7 @@ marginparwidth=4cm, marginparsep=0.5cm]{geometry}
                         \centering
                         \small\begin{verbatim}   TCP A                                                   TCP B
 1. ESTABLISHED --> <SEQ=101><ACK=301><CTL=PSH><Hello>  --> ESTABLISHED
-4. ESTABLISHED --> <SEQ=301><ACK=106><CTL=ACK>         --> ESTABLISHED\end{verbatim}\normalsize
+2. ESTABLISHED <-- <SEQ=301><ACK=106><CTL=ACK>         <-- ESTABLISHED\end{verbatim}\normalsize
                 \vspace{-15pt}
                 \caption{TCP's data communication.}
                 \label{fig:tcppsh}

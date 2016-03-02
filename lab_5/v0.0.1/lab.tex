@@ -45,6 +45,7 @@ marginparwidth=4cm, marginparsep=0.5cm]{geometry}
             \begin{itemize}[leftmargin=4cm]
                 \item 25-3-2014: original document -- mkhonji.
                 \item 26-3-2014: fixing language typos -- mkhonji.
+                \item 3-2-2016: added \texttt{-u} to \texttt{nc} -- mkhonji.
             \end{itemize}
     \end{titlepage}
     \newpage
@@ -227,7 +228,7 @@ marginparwidth=4cm, marginparsep=0.5cm]{geometry}
             work to the lab engineer for grading purposes.}
         \end{flushright}
 
-        Using the \texttt{nc}\footnote{\texttt{nc -l -p 100 -s 10.0.1.2}}
+        Using the \texttt{nc}\footnote{\texttt{nc -l -u -p 100 -s 10.0.1.2}}
         command run three applications on PC1 that listen on UDP ports as
         follows:
         \begin{itemize}
